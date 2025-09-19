@@ -52,4 +52,8 @@ La carpeta creada previamente creada solo es como un directorio cualesquiera has
 <p> Una vez configurado samba se realiza el reinicio del servicio para asegurarse que lo cambios se aplicaron </p>
 <code>sudo systemctl restart smbd nmbd</code>
 <p> Y luego se comprueba la configuración</p>
-<code>testparm</code>
+<code>testparm</code> <br>
+
+<img width="286" height="114" alt="image" src="https://github.com/user-attachments/assets/37a99eb3-07bc-4e82-ac35-71d9fc034c04" />
+
+
