@@ -26,7 +26,7 @@
 <img width="628" height="220" alt="image" src="https://github.com/user-attachments/assets/6c7eefaf-a042-4a13-923c-1cb899c35876" />
 
 <h3> 3. Configurar directorio share en samba </h3>
-<p> Al instalar samba se crea un un archivo llamado smb.conf, este archivo contiene información como el nombre lo dice relacionada a la configuración.
+<p> Al instalar samba se crea un un archivo llamado smb.conf (se encuentra en /etc/samba/smb.conf), este archivo contiene información como el nombre lo dice relacionada a la configuración.
 La carpeta creada previamente creada solo es como un directorio cualesquiera hasta el momento, para que samba la reconozca se debe agregarla. </p>
 
 ``` bash
